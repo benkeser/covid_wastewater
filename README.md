@@ -1,5 +1,9 @@
 # COVID-19 Wastewater Monitoring SISMID Project
 
+## New plots added
+
+Wow our new plots are so great.
+
 ## Plots
 
 In this analysis we generate lots of cool plots.
