@@ -10,7 +10,8 @@ plot1 = covid %>%
   ggplot(aes(county, log(concentration), group = county, fill = county)) +
   geom_boxplot() +
   theme(legend.position = "none",
-        axis.text.x = element_text(angle = 30, hjust = 1))
+        axis.text.x = element_text(angle = 30, hjust = 1)) +
+  xlab("County in the state")
 
 
 ## gonna do something here with the dates to make this prettier.
