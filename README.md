@@ -27,3 +27,7 @@ a subdirectory
 by the full analysis files)
 
 project structured using the [projectr](https://github.com/julia-wrobel/projectr) package.
+
+## Some cool new addition
+
+I'm just adding text here because I don't know what else to do.
