@@ -1,5 +1,9 @@
 # COVID-19 Wastewater Monitoring SISMID Project
 
+## Plots
+
+In this analysis we generate lots of cool plots.
+
 ## Generic Project Directory
 
 This is a generic project template. It might help to add a brief description.
