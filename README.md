@@ -34,4 +34,4 @@ project structured using the [projectr](https://github.com/julia-wrobel/projectr
 
 ## Some cool new addition
 
-I'm just adding text here because I don't know what else to do.
+Here I am adding some text in the conflict branch.
