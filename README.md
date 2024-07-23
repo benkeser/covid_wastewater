@@ -1,4 +1,4 @@
-# 20240722_sismid_repro
+# COVID-19 Wastewater Monitoring SISMID Project
 
 ## Generic Project Directory
 
