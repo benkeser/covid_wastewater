@@ -1,5 +1,6 @@
 load(here::here("data", "clean.Rdata"))
 
+library(viridis)
 library(tidyverse)
 library(forcats)
 
@@ -9,6 +10,7 @@ plot1 = covid %>%
          county = fct_reorder(county, concentration)) %>%
   ggplot(aes(county, log(concentration), group = county, fill = county)) +
   geom_boxplot() +
+  scale_fill_viridis(discrete = TRUE) +
   theme(legend.position = "none",
         axis.text.x = element_text(angle = 30, hjust = 1)) +
   xlab("County in the state")
