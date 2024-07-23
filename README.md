@@ -35,3 +35,4 @@ project structured using the [projectr](https://github.com/julia-wrobel/projectr
 ## Some cool new addition
 
 Here I am writing some new text on the master branch!
+
